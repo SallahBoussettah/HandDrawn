@@ -338,6 +338,7 @@ nav a:hover:after {
     overflow: hidden;
     border-right: 2px solid var(--primary-color);
     white-space: nowrap;
+    font-weight: 500;
     margin: 0 auto 30px auto;
     letter-spacing: 0.1em;
     animation: typing 3.5s steps(30, end), blink-caret 0.75s step-end infinite;
